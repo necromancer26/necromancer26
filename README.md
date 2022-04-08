@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on ...React.js
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Linkedin](https://www.linkedin.com/in/khalil-ch/)
+- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/khalil-ch/)
 <!--- - 😄 Pronouns: ...He/Him-->
 - ⚡ Fun fact: ...I switched to IT from Psychology
 
