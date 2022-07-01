@@ -1,7 +1,7 @@
-Hi 👋 My name is Khalil
+Hi 🐉 My name is Khalil
 =======================
 
-Software Developer
+Software Developer 👨‍💻
 ------------------
 
 IT Engineering student with a passion for software development (Web, Mobile, Desktop), programming and IT. Although my experience in IT is mainly focused on Web Development i don't shy away from learning new skills, languages, frameworks and technologies or tapping into other fields if it is necessary.
