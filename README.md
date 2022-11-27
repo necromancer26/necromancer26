@@ -10,6 +10,8 @@ IT Engineering student with a passion for software development (Web, Mobile, Des
 * ✉️  You can contact me at [khalil.assef.chettaoui@gmail.com](mailto:khalilchettaoui@icloud.com)
 * 🧠  I'm learning Flutter
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=b2e074ec3341&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ### Skills
 
 <p align="left">
