@@ -10,9 +10,6 @@ IT Engineering student with a passion for software development (Web, Mobile, Des
 * ✉️  You can contact me at [khalil.assef.chettaoui@gmail.com](mailto:khalilchettaoui@icloud.com)
 * 🧠  I'm learning Flutter
 
-* Get 200$ of Digital Ocean credit over 60 days
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b2e074ec3341&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
 ### Skills
 
 <p align="left">
@@ -67,4 +64,5 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/khalil-ch/)
 - ⚡ Fun fact: ...I switched to IT from Psychology -->
-
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b2e074ec3341&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+Get 200$ of Digital Ocean for 60 days
