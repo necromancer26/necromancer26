@@ -54,4 +54,4 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...I switched to IT from Psychology -->
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b2e074ec3341&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-Get 200$ of Digital Ocean for 60 days
+Get 200$ of DigitalOcean credits using my link
