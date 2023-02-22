@@ -4,11 +4,11 @@ Hi 🐉 My name is Khalil
 Software Developer 👨‍💻
 ------------------
 
-IT Engineering student with a passion for software development (Web, Mobile, Desktop), programming and IT. Although my experience in IT is mainly focused on Web Development i don't shy away from learning new skills, languages, frameworks and technologies or tapping into other fields if it is necessary.
+IT Engineering student and software developer.
  
 * 🌍  I'm based in Tunis
-* ✉️  You can contact me at [khalil.assef.chettaoui@gmail.com](mailto:khalilchettaoui@icloud.com)
-* 🧠  I'm learning Flutter
+* ✉️  You can contact me at [khalil.chettaoui@icloud.com](mailto:khalilchettaoui@icloud.com)
+* 🧠  I'm learning DevOps and Cloud Computing
 
 ### Skills
 
