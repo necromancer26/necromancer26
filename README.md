@@ -1,4 +1,4 @@
-Hi 🐉 My name is Khalil
+Hi i'm Khalil
 =======================
 
 Software Developer 👨‍💻
