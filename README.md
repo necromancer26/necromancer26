@@ -6,10 +6,10 @@ Software Developer 👨‍💻
 
 IT Engineering student and software developer.
  
-* 🌍  I'm based in Tunis
+* 🌍 I'm based in Tunis
 * ✉️  You can contact me at [khalil.chettaoui@icloud.com](mailto:khalilchettaoui@icloud.com)
-* 🧠  I'm learning DevOps and Cloud Computing
-
+* 🧠 I'm learning DevOps and Cloud Computing
+* 👨‍💻 Currently working for AIGOT
 ### Skills
 
 <p align="left">
