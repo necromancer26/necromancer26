@@ -10,9 +10,6 @@ IT Engineering student and software developer.
 * ✉️  You can contact me at [khalil.chettaoui@icloud.com](mailto:khalilchettaoui@icloud.com)
 * 🧠 I'm learning DevOps and Cloud Computing
 * 👨‍💻 Currently working part-time for AIGOT
-* cityzen.tn
-* polydioms.online
-* idania.se
 ### Skills
 
 <p align="left">
