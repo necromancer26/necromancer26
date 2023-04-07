@@ -4,7 +4,7 @@ Hi i'm Khalil
 Software Developer 👨‍💻
 ------------------
 
-IT Engineering student and software developer.
+Cloud Computing student and software developer.
  
 * 🌍 I'm based in Tunis
 * ✉️  You can contact me at [khalil.chettaoui@icloud.com](mailto:khalilchettaoui@icloud.com)
