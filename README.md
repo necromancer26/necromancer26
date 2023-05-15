@@ -9,7 +9,7 @@ Cloud Computing student and Software Developer.
 * 🌍 I'm based in Tunis
 * ✉️  You can contact me at [khalil.chettaoui@icloud.com](mailto:khalilchettaoui@icloud.com)
 * 🧠 I'm learning DevOps and Cloud Computing
-* 👨‍💻 Currently working part-time for AIGOT
+* 👨‍💻 Currently working part-time for <a href="https://github.com/AiGotsrl"> AiGotsrl</a>
 ### Skills
 
 <p align="left">
