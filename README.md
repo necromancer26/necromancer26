@@ -44,6 +44,14 @@
 </picture>
  </a>
 
+ <a href="https://infosec.exchange/@necromancer26" target="_blank" rel="noreferrer">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+<source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1200px-Mastodon_logotype_%28simple%29_new_hue.svg.png" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1200px-Mastodon_logotype_%28simple%29_new_hue.svg.png" width="32" height="32" />
+</picture>
+</a>
+
 <a href="https://www.linkedin.com/in/khalil-ch/" target="_blank" rel="noreferrer">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="undefined" />
