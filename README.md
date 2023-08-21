@@ -14,8 +14,8 @@ Cloud Computing student and Software Developer.
 ### Skills
 
 <p align="left">
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-terraform-plain"></i>
 
 ### Socials
 
