@@ -48,7 +48,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="undefined" />
 <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1200px-Mastodon_logotype_%28simple%29_new_hue.svg.png" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mastodon_logotype_%28simple%29_new_hue.svg/1200px-Mastodon_logotype_%28simple%29_new_hue.svg.png" width="32" height="32" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/1907px-Mastodon_Logotype_%28Simple%29.svg.png" width="32" height="32" />
 </picture>
 </a>
 
