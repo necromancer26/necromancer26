@@ -54,9 +54,9 @@
 
 <a href="https://www.linkedin.com/in/khalil-ch/" target="_blank" rel="noreferrer">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+ <source media="(prefers-color-scheme: dark)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/LinkedIn_icon.svg.png" />
+<source media="(prefers-color-scheme: light)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/LinkedIn_icon.svg.png" />
+ <img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/LinkedIn_icon.svg.png" width="32" height="32" />
 </picture>
 </a>
 </p>    
