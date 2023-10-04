@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in Tunis
 - ✉️  You can contact me at [khalilchettaoui@icloud.com](mailto:khalilchettaoui@icloud.com)
-- 🧠  I'm learning DevOps and GitOps
+- 🧠  I'm learning GitOps
 
 ### Skills
 
