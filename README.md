@@ -1,6 +1,6 @@
 # Hi 👋 My name is Khalil Chettaoui
 
-## Fullstack Developer 👨‍💻 and Cloud Computing Student ☁️
+## IT Engineer 👨‍💻 and Cloud Computing Student ☁️
 
 - 🌍  I'm based in Tunis
 - ✉️  You can contact me at [khalilchettaoui@icloud.com](mailto:khalilchettaoui@icloud.com)
