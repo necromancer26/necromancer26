@@ -27,7 +27,7 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/amazon-web-services-2.svg" width="36" height="36" alt="AWS" /></a>
  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" width="36" height="36" alt="Digitalocean" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/k8s.svg" width="36" height="36" alt="Kubernetes" /></a>
  
 </p>
                     
