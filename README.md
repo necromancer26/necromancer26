@@ -42,8 +42,8 @@
 
  <a href="https://infosec.exchange/@necromancer26" target="_blank" rel="noreferrer">
  <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/mastodon.svg.png" />
-<source media="(prefers-color-scheme: light)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/Mastodon_logotype_(simple)_new_hue.svg.png" />
+<source media="(prefers-color-scheme: dark)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/masto.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/masto.svg" />
 <img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/masto.svg" width="32" height="32" />
 </picture>
 </a>
