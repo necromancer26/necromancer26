@@ -1,4 +1,4 @@
-# Hi 👋 My name is Khalil Chettaoui 💛
+# Hi 👋 My name is Khalil 💛
 
 ## IT Engineer 👨‍💻 ☁️
 
