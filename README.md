@@ -49,13 +49,6 @@ https://github.com/necromancer26/necromancer26/blob/main/README.md
 </picture>
 </a>
 
-<a href="https://www.linkedin.com/in/khalil-ch/" target="_blank" rel="noreferrer">
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/LinkedIn_icon.svg.webp" />
-<source media="(prefers-color-scheme: light)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/LinkedIn_icon.svg.webp" />
- <img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/LinkedIn_icon.svg.webp" width="32" height="32" />
-</picture>
-</a>
 </p>    
 
 
