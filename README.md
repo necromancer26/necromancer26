@@ -1,7 +1,6 @@
 # Hi 👋 My name is Khalil 💛
 
 ## Platform | DevOps Engineer 👨‍💻 ☁️
-https://github.com/necromancer26/necromancer26/blob/main/README.md
 - 🌍  I'm based in Munich
 - ✉️  You can contact me at [khalil.che26@icloud.com](mailto:khalil.che26@icloud.com)
 - 🧠  I'm learning IoT and Edge Computing
