@@ -5,6 +5,8 @@ https://github.com/necromancer26/necromancer26/blob/main/README.md
 - 🌍  I'm based in Munich
 - ✉️  You can contact me at [khalil.che26@icloud.com](mailto:khalil.che26@icloud.com)
 - 🧠  I'm learning IoT and Edge Computing
+### About me
+- ⛰️ I love hiking and 🌊 swimming if it's not freezing after a long week of work
 
 ### Skills
 
@@ -50,9 +52,6 @@ https://github.com/necromancer26/necromancer26/blob/main/README.md
 </a>
 
 </p>    
-
-### About me
-- ⛰️ I love hiking and 🌊 swimming if it's not freezing after a long week of work
 
 <!--- 🔭 I’m currently working on ...-->
 <!---- 🤔 I’m looking for help with ...-->
