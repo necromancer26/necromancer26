@@ -50,13 +50,12 @@ https://github.com/necromancer26/necromancer26/blob/main/README.md
 </a>
 
 </p>    
-
+- ⛰️ I love hiking and 🌊 swimming if it's not freezing after a long week of work
 
 <!--- 🔭 I’m currently working on ...-->
 <!---- 🤔 I’m looking for help with ...-->
 <!--- - 😄 Pronouns: ...He/Him-->
 <!--- - 🌱 I’m currently learning ...Vue.js, Next.js, Flutter, React-Native
-- 👯 I’m looking to collaborate on ...React.js
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/khalil-ch/)
 - ⚡ Fun fact: ...I switched to IT from Psychology -->
