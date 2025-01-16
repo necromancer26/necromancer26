@@ -60,7 +60,3 @@ https://github.com/necromancer26/necromancer26/blob/main/README.md
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/khalil-ch/)
 - ⚡ Fun fact: ...I switched to IT from Psychology -->
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b2e074ec3341&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-Get started with with a developer friendly cloud provider and get 200$ of DigitalOcean credits using my referral link 🦈
