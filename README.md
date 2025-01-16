@@ -50,6 +50,8 @@ https://github.com/necromancer26/necromancer26/blob/main/README.md
 </a>
 
 </p>    
+
+### About me
 - ⛰️ I love hiking and 🌊 swimming if it's not freezing after a long week of work
 
 <!--- 🔭 I’m currently working on ...-->
