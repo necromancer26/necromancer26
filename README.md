@@ -3,7 +3,7 @@
 ## Platform | DevOps Engineer 👨‍💻 ☁️
 - 🌍  I'm based in Munich
 - ✉️  You can contact me at [khalil.che26@icloud.com](mailto:khalil.che26@icloud.com)
-- 🧠  I'm learning IoT and Edge Computing
+- 🧠  I'm learning IoT and Edge Computing and trying stuff with raspberry pis
 ### About me
 - ⛰️ I love hiking and 🌊 swimming if it's not freezing after a long week of work
 
