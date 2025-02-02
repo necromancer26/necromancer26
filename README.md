@@ -56,7 +56,6 @@
 <!---- 🤔 I’m looking for help with ...-->
 <!--- - 😄 Pronouns: ...He/Him-->
 <!--- - 🌱 I’m currently learning ...Vue.js, Next.js, Flutter, React-Native
-![gopher dancing](./dancing-gopher.gif)
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/khalil-ch/)
 - ⚡ Fun fact: ...I switched to IT from Psychology -->
