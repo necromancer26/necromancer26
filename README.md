@@ -6,7 +6,6 @@
 - 🧠  I'm learning IoT and Edge Computing and trying stuff with Raspberry Pis
 ### About me
 - ⛰️ I love hiking and 🌊 swimming if it's not freezing after a long week of work
-![gopher dancing](./dancing-gopher.gif)
 ### Skills
 
 <p align="left">
