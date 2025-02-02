@@ -30,7 +30,7 @@
  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" width="36" height="36" alt="Digitalocean" /></a>
  
 </p>
-![gopher dancing](./dancing-gopher.gif)            
+     
 ### Socials
 
 <p align="left">
@@ -56,6 +56,7 @@
 <!---- 🤔 I’m looking for help with ...-->
 <!--- - 😄 Pronouns: ...He/Him-->
 <!--- - 🌱 I’m currently learning ...Vue.js, Next.js, Flutter, React-Native
+![gopher dancing](./dancing-gopher.gif)
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/khalil-ch/)
 - ⚡ Fun fact: ...I switched to IT from Psychology -->
