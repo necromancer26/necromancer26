@@ -30,7 +30,7 @@
  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" width="36" height="36" alt="Digitalocean" /></a>
  
 </p>
-                    
+![gopher dancing](./dancing-gopher.gif)            
 ### Socials
 
 <p align="left">
