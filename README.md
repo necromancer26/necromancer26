@@ -12,7 +12,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
- <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/go.svg" width="36" height="36" alt="Golang" /></a>
+ <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/gopher.svg" width="36" height="36" alt="Golang" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/nextjs.svg" width="36" height="36" alt="NextJs" /></a>
