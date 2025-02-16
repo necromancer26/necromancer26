@@ -7,6 +7,7 @@
 ### About me
 - ⛰️ I love hiking and 🌊 swimming if it's not freezing after a long week of work
 <img src="./hiking.svg" alt="gopher hiking" width="200"/>
+
 ### Skills
 
 <p align="left">
