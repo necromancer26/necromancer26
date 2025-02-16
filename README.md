@@ -6,7 +6,7 @@
 - 🧠  I'm learning IoT and Edge Computing and trying stuff with Raspberry Pis
 ### About me
 - ⛰️ I love hiking and 🌊 swimming if it's not freezing after a long week of work
-![gopher hiking](./hiking.svg)
+<img src="./hiking.svg" alt="gopher hiking" width="200"/>
 ### Skills
 
 <p align="left">
