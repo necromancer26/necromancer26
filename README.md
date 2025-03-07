@@ -29,34 +29,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Heroku" /></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/amazon-web-services-2.svg" width="36" height="36" alt="AWS" /></a>
  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" width="36" height="36" alt="Digitalocean" /></a>
- 
 </p>
-     
-## Socials
-
-<p align="left">
-<a href="https://www.github.com/necromancer26" target="_blank" rel="noreferrer">
- <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
- </a>
-
- <a href="https://infosec.exchange/@necromancer26" target="_blank" rel="noreferrer">
- <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/masto.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/masto.svg" />
-<img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/masto.svg" width="32" height="32" />
-</picture>
-</a>
-
-</p>    
-
-<!--- 🔭 I’m currently working on ...-->
-<!---- 🤔 I’m looking for help with ...-->
-<!--- - 😄 Pronouns: ...He/Him-->
-<!--- - 🌱 I’m currently learning ...Vue.js, Next.js, Flutter, React-Native
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/khalil-ch/)
-- ⚡ Fun fact: ...I switched to IT from Psychology -->
