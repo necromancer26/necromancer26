@@ -1,4 +1,4 @@
-# Hi 👋 My name is Khalil 💙
+# Hi 👋 My name is Khalil 🩵
 
 ## Platform | DevOps Engineer 👨‍💻 ☁️
 - 🌍  I'm based in Munich
