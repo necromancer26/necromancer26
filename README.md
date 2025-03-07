@@ -6,7 +6,7 @@
 - 🧠  I'm learning IoT trying stuff with Raspberry-Pis
 ## About me
 - I love hiking and swimming if it's not freezing after a long week of work 🌲
-<img src="./hiking.svg" alt="gopher hiking" width="150"/>
+<img src="./hiking.svg" alt="gopher hiking" width="180"/>
 
 ## Stack
 
