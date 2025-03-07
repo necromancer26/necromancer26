@@ -1,15 +1,12 @@
-# Hi 👋 My name is Khalil
-
+## Hi 👋 My name is Khalil
 - 🧑‍💻 I'm a DevOps Engineer
 - 🌍 I'm based in Munich
 - ✉️ You can contact me at [contact@khalilchettaoui.space](mailto:contact@khalilchettaoui.space)
 - 🧠 I'm learning IoT and trying stuff with Raspberry-Pis
-## About me
+### About me
 - I love hiking and swimming if it's not freezing after a long week of work 🌲
 <img src="./hiking.svg" alt="gopher hiking" width="180"/>
-
-## Stack
-
+### Stack
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
