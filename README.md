@@ -1,6 +1,5 @@
 ## Hi 👋 My name is Khalil
 ### About me
-- 🧑‍💻 I'm a DevOps Engineer
 - 🌍 I'm based in Munich
 - ✉️ You can contact me at [contact@khalilchettaoui.space](mailto:contact@khalilchettaoui.space)
 - 🧠 I'm learning IoT and trying stuff with Raspberry-Pis
